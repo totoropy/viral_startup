@@ -1,0 +1,9 @@
+Facebook/Viral Startup -- PHP
+=============================
+
+This startup facebook application based on YII framework.
+It is used as base project for marketing contest applications based on sending invitations.
+
+There is main setting file in ../protected/config/main.php
+
+
