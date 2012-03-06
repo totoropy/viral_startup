@@ -1,0 +1,233 @@
+
+.hidden{
+display:none;
+}
+
+.gRow{
+margin-bottom:10px;
+}
+.gTh{
+width:181px;
+background-color:transparent;
+padding:0px;
+margin:0px;
+border:0px;
+float:left;
+}
+
+
+
+
+.gImg{
+width:161px;
+height:120px;
+margin:4px;
+margin-top:3px;
+}
+
+.imageItem{
+width:169px;
+background-color:white;
+padding:0px;
+border:solid 1px #dddddd;
+}
+
+.itemButton {
+height:1px;
+width:80px;
+padding:0px;
+position:relative;
+left:50px;
+top:90px;
+}
+
+.itemIcon {
+width:16px;
+height:17px;
+border:0px;
+}
+
+.topImageItem{
+width:170px;
+}
+
+.votesTitle{
+position:relative;
+margin:80px auto auto;
+width:80px;
+border:solid 1px #fff;
+background-color:#3b5998;
+color:#fff;
+text-align:center;
+padding:2px;
+}
+.overvotesTitle
+{
+width:80px;
+border:solid 1px #fff;
+background-color:#3b5998;
+color:#fff;
+text-align:center;
+padding:2px;
+}
+
+.titleFrame
+{
+height:40px;
+text-align:left;
+font-size:11px;
+background-color:#fff;
+z-index:100;
+border:0px;
+}
+
+.titleProfile
+{
+height:32px;
+width:34;
+padding:1px;
+float:left;
+border:solid 1px #dddddd;
+margin:4px;
+margin-top:0px;
+}
+
+.titleDesc
+{
+margin-left:42px;
+background-color:#ffffff;
+float:left;
+height:38px;
+width:120px;
+text-align:left;
+font-size:11px;
+clip:rect(0px, 120px, 38px, 0px);
+position: absolute;
+}
+
+.gImgName{
+background:none repeat scroll 0 0 #3B5998;
+border:1px solid #DDDDDD;
+color:#FFFFFF;
+font-weight:bold;
+height:18px;
+margin-bottom:2px;
+overflow:hidden;
+text-align:center;
+}
+
+.gcontainer{
+border:1px solid #efefef;
+margin-bottom:30px;
+}
+.gcontainer li{
+float:left;
+min-height:176px;
+width:180px;
+}
+.gcontainer ul {
+list-style-type:none;
+}
+.gcontainer ul, .gcontainer ol {
+padding:0;
+}
+
+.gcontainer-notitle{
+border:1px solid #efefef;
+margin-bottom:30px;
+}
+.gcontainer-notitle li{
+float:left;
+min-height:136px;
+width:180px;
+}
+.gcontainer-notitle ul {
+list-style-type:none;
+}
+.gcontainer-notitle ul, .gcontainer-notitle ol {
+padding:0;
+}
+
+.deleteIcon{
+display:none;
+margin-left:150px;
+margin-top:5px;
+position:absolute;
+}
+
+.deleteIcon img{
+width:16px;
+height:16px;
+cursor:pointer;
+}
+
+.text_field:hover{
+border:1px solid red;
+cursor:move;
+}
+
+.toggleUploader{
+color:#3B8CB2;
+cursor:pointer;
+font-weight:bold;
+padding:2px 0 2px 20px;
+}
+
+.maxUploaded{
+	display:none;
+}
+.fbguploader {
+background:none repeat scroll 0 0 #eeeeee;
+border:1px solid #dddddd;
+display:none;
+margin-bottom:30px;
+padding:10px;
+width:355px;
+}
+
+.toggleDown{
+background:url("down-icon.png") no-repeat scroll 0 0 transparent;
+}
+.toggleUp{
+background:url("up-icon.png") no-repeat scroll 0 0 transparent;
+}
+
+.toggleSettings{
+color:#3B8CB2;
+cursor:pointer;
+font-weight:bold;
+padding:2px 0 2px 20px;
+width:355px;
+}
+
+
+.valSlider{
+text-align:right;
+width:33px;
+}
+
+.MultiFile-applied{
+background:none repeat scroll 0 0 #FFFFFF;
+border:1px solid #78B1D2;
+}
+
+.uploaderTitle{
+	font-weight:bold;
+}
+
+.maxFiles{
+float:left;
+margin-right:5px;
+}
+.limitFiles{
+	float:left;
+}
+
+.fbgrow{
+    margin-bottom: 3px;
+}
+
+/*.fbgrow:hover{
+    border: 1px solid #78B1D2;
+    background: none repeat scroll 0 0 #EEEEEE;
+}*/

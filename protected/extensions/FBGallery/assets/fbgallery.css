@@ -1,0 +1,179 @@
+
+.hidden{
+display:none;
+}
+.gcontainer{
+border:0px solid #efefef;
+margin-bottom:30px;
+}
+.gRow{
+margin-bottom:10px;
+}
+.gTh{
+background:none repeat scroll 0 0 #ffffff;
+border:1px solid #dddddd;
+float:left;
+margin:3px;
+padding:2px;
+}
+
+
+.gTh img{
+width:170px;
+border:0;
+
+}
+
+.topImageItem{
+width:170px;
+}
+
+.gImgName{
+background:none repeat scroll 0 0 #3B5998;
+border:1px solid #DDDDDD;
+color:#FFFFFF;
+font-weight:bold;
+height:18px;
+margin-bottom:2px;
+overflow:hidden;
+text-align:center;
+}
+
+.gcontainer li{
+float:left;
+min-height:176px;
+width:180px;
+}
+
+.gcontainer ul {
+list-style-type:none;
+}
+
+.gcontainer ul, .gcontainer ol {
+padding:0;
+}
+
+.deleteIcon{
+display:none;
+margin-left:150px;
+margin-top:5px;
+position:absolute;
+}
+
+.deleteIcon img{
+width:16px;
+height:16px;
+cursor:pointer;
+}
+
+.text_field:hover{
+border:1px solid red;
+cursor:move;
+}
+
+.toggleUploader{
+color:#3B8CB2;
+cursor:pointer;
+font-weight:bold;
+padding:2px 0 2px 20px;
+}
+
+.maxUploaded{
+	display:none;
+}
+.fbguploader {
+background:none repeat scroll 0 0 #EFF4FA;
+border:1px solid #78B1D2;
+display:none;
+float:left;
+margin-bottom:30px;
+padding:10px;
+width:355px;
+}
+
+.toggleDown{
+background:url("down-icon.png") no-repeat scroll 0 0 transparent;
+}
+.toggleUp{
+background:url("up-icon.png") no-repeat scroll 0 0 transparent;
+}
+
+.toggleSettings{
+color:#3B8CB2;
+cursor:pointer;
+font-weight:bold;
+padding:2px 0 2px 20px;
+width:355px;
+}
+
+div.formCfg{
+background:none repeat scroll 0 0 #EFF4FA;
+border:1px solid #4C9CC8;
+display:none;
+margin:15px 0;
+padding:10px;
+}
+
+div.formCfg .row{
+margin-bottom:10px;
+}
+
+div.formCfg label{
+font-weight:bold;
+float:left;
+width:240px;
+}
+
+div.formCfg input{
+background:none repeat scroll 0 0 #FFFFFF;
+border:1px solid #4C9CC8;
+}
+
+div.formCfg select{
+background:none repeat scroll 0 0 #FFFFFF;
+border:1px solid #4C9CC8;
+}
+
+div.formCfg span.required{
+color:red;
+}
+
+.defaultCfg{
+background:url("default-icon.png") no-repeat scroll 0 0 transparent;
+float:right;
+height:16px;
+margin-right:15px;
+width:16px;
+cursor:pointer;
+}
+
+.valSlider{
+text-align:right;
+width:33px;
+}
+
+.MultiFile-applied{
+background:none repeat scroll 0 0 #FFFFFF;
+border:1px solid #78B1D2;
+}
+
+.uploaderTitle{
+	font-weight:bold;
+}
+
+.maxFiles{
+float:left;
+margin-right:5px;
+}
+.limitFiles{
+	float:left;
+}
+
+.fbgrow{
+    margin-bottom: 3px;
+}
+
+/*.fbgrow:hover{
+    border: 1px solid #78B1D2;
+    background: none repeat scroll 0 0 #EEEEEE;
+}*/
