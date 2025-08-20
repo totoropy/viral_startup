@@ -2,7 +2,12 @@
 
 ## Database Diagram
 
-![Badges Database Schema](graphviz_badges.png)
+<!-- 
+  To zoom out the image, you can control its display size using HTML.
+  Markdown does not support image resizing natively, but HTML does.
+  Here, we set a smaller width (e.g., 60%) to "zoom out" the image.
+-->
+<img src="graphviz_badges.png" alt="Badges Database Schema" style="width:60%;">
 
 ## Overview
 
